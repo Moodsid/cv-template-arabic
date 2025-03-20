@@ -2316,7 +2316,7 @@ body {
 .theme-7 .personal-info-item {
   margin-bottom: 15px;
   display: flex;
-  overflow-x: scroll;
+ 
 }
 .theme-7 .personal-info-item span {
   overflow-x: scroll;
